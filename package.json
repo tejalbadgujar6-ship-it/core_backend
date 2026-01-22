@@ -12,7 +12,7 @@
     "api"
   ],
   "license": "ISC",
-  "author": "\"Tejal Badgujar\"",
+  "author": "Tejal Badgujar",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
